@@ -17,22 +17,22 @@
 
 Microsoft Office changed what a Windows PC was for. It bundled the everyday kinds of work into one suite, and the computer stopped being a box of separate programs and became a place where things got finished.
 
-PhanOS takes that idea a step further. Instead of a suite of applications that you operate, it is an engine that an AI plugs into, plus a growing set of workflow plugins that teach the AI how to do each kind of job. The AI can be local or hosted, whichever you prefer. You decide how much freedom it gets, from checking with you before every step to running a whole job on its own.
+The PhanOS Builder app takes that idea a step further. Instead of a suite of applications that you operate, it is an engine that an AI plugs into, plus a growing set of workflow plugins that teach the AI how to do each kind of job. The AI can be local or hosted, whichever you prefer. You decide how much freedom it gets, from checking with you before every step to running a whole job on its own.
 
 ## A model made for the job
 
-PhanOS will ship with its own fine-tuned model, trained for the everyday work that Cyphor does. Keeping track of a project, reading and organising its files and checking results are small, constant jobs. A model built for exactly those jobs handles them on your own machine and keeps your graphics card free for everything else.
+The PhanOS Builder app will ship with its own fine-tuned model, trained for the everyday work that Cyphor does. Keeping track of a project, reading and organising its files and checking results are small, constant jobs. A model built for exactly those jobs handles them on your own machine and keeps your graphics card free for everything else.
 
-You are never locked in. Whenever a task calls for more power, or you simply prefer it, PhanOS works with hosted models from the larger providers too.
+You are never locked in. Whenever a task calls for more power, or you simply prefer it, the PhanOS Builder app works with hosted models from the larger providers too.
 
 | Where the work runs | Good for |
 | --- | --- |
 | The PhanOS model, on your machine | Everyday project work, private by default, light on your GPU |
 | A hosted model from a larger provider | Heavy lifting, whenever you choose to use it |
 
-## PhanOS Builder
+## The PhanOS Builder app
 
-Builder is the first app on the engine, and it is almost finished. It is a full project operating system for Windows, and it runs on Linux too. Its first workflow plugin is for coding.
+The PhanOS Builder app is the first app on the engine, and it is almost finished. It is a full project operating system for Windows, and it runs on Linux too. Its first workflow plugin is for coding.
 
 A built-in orchestrator plans the work, hands pieces to several AI agents at once, checks what comes back and keeps a record of every step. Let it run fully autonomously, or stay in the loop and approve as you go. It is the same engine either way, and the choice is yours.
 
@@ -46,7 +46,7 @@ Coding is the first plugin, not the last. Other jobs will follow on the same eng
 
 ## PhanOS, the operating system
 
-A full Linux operating system built on this engine is already in development. Linux stays underneath. What changes is who does the operating: you say what you want, and the system takes care of the rest.
+This is the real PhanOS. The PhanOS Builder app is the first step; a full Linux operating system built on the same engine is already in development. Linux stays underneath. What changes is who does the operating: you say what you want, and the system takes care of the rest.
 
 How it looks and feels is staying a secret for now. We think it will be worth the wait.
 
@@ -74,11 +74,11 @@ The business model is still being worked out. The goal is to open source at leas
 
 | Piece | Status |
 | --- | --- |
-| PhanOS Builder | Almost finished, for Windows and Linux |
+| PhanOS Builder app | Almost finished, for Windows and Linux |
 | PhanOS operating system | In development |
 | Cyphor | Being prepared for release |
 | Graft | In development |
-| phanos.eu | Website under construction and its information may be outdated, Beta access requests for PhanOS Builder are open |
+| phanos.eu | Website under construction and its information may be outdated, Beta access requests for the PhanOS Builder app are open |
 
 ## Follow along
 
