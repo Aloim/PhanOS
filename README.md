@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Under construction. Beta access can be requested at <a href="https://phanos.eu">phanos.eu</a> (website under construction, its information may be outdated).<br>
+  Under construction. Beta access to the PhanOS Builder app can be requested at <a href="https://phanos.eu">phanos.eu</a> (website under construction, its information may be outdated).<br>
   Star and watch this repository to hear about what comes next.
 </p>
 
@@ -78,8 +78,8 @@ The business model is still being worked out. The goal is to open source at leas
 | PhanOS operating system | In development |
 | Cyphor | Being prepared for release |
 | Graft | In development |
-| phanos.eu | Website under construction and its information may be outdated, Beta access requests are open |
+| phanos.eu | Website under construction and its information may be outdated, Beta access requests for PhanOS Builder are open |
 
 ## Follow along
 
-This page is a placeholder while the real thing is built. **Star** this repository and **watch** it to get future updates, and request Beta access at [phanos.eu](https://phanos.eu) (website under construction, its information may be outdated).
+This page is a placeholder while the real thing is built. **Star** this repository and **watch** it to get future updates, and request Beta access to the PhanOS Builder app at [phanos.eu](https://phanos.eu) (website under construction, its information may be outdated).
