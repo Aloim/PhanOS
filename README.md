@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Under construction. Beta access can be requested at <a href="https://phanos.eu">phanos.eu</a>.<br>
+  Under construction. Beta access can be requested at <a href="https://phanos.eu">phanos.eu</a> (website under construction).<br>
   Star and watch this repository to hear about what comes next.
 </p>
 
@@ -90,8 +90,8 @@ The business model is still being worked out. The goal is to open source at leas
 | PhanOS operating system | In development |
 | Cyphor | Being prepared for release |
 | Graft | In development |
-| phanos.eu | Under construction, Beta access requests are open |
+| phanos.eu | Website under construction, Beta access requests are open |
 
 ## Follow along
 
-This page is a placeholder while the real thing is built. **Star** this repository and **watch** it to get future updates, and request Beta access at [phanos.eu](https://phanos.eu).
+This page is a placeholder while the real thing is built. **Star** this repository and **watch** it to get future updates, and request Beta access at [phanos.eu](https://phanos.eu) (website under construction).
