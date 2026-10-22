@@ -31,6 +31,17 @@ PhanOS takes that idea a step further. Instead of a suite of applications that y
  Windows or Linux
 ```
 
+## A model made for the job
+
+PhanOS will ship with its own fine-tuned model, trained for the everyday work that Cyphor does. Keeping track of a project, reading and organising its files and checking results are small, constant jobs. A model built for exactly those jobs handles them on your own machine and keeps your graphics card free for everything else.
+
+You are never locked in. Whenever a task calls for more power, or you simply prefer it, PhanOS works with hosted models from the larger providers too.
+
+| Where the work runs | Good for |
+| --- | --- |
+| The PhanOS model, on your machine | Everyday project work, private by default, light on your GPU |
+| A hosted model from a larger provider | Heavy lifting, whenever you choose to use it |
+
 ## PhanOS Builder
 
 Builder is the first app on the engine, and it is almost finished. It is a full project operating system for Windows, and it runs on Linux too. Its first workflow plugin is for coding.
