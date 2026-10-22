@@ -69,7 +69,6 @@ Security is part of how PhanOS operates, not an add-on. It is designed so that:
 - everything the AI writes is signed, so tampering gets noticed
 - your keys and passwords stay locked away, and the AI can use them without ever seeing them
 - programs get narrow, temporary access instead of the run of your machine
-- anything risky is backed up first, so undoing it is one request
 
 ## Safer websites with Graft
 
