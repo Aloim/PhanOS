@@ -19,18 +19,6 @@ Microsoft Office changed what a Windows PC was for. It bundled the everyday kind
 
 PhanOS takes that idea a step further. Instead of a suite of applications that you operate, it is an engine that an AI plugs into, plus a growing set of workflow plugins that teach the AI how to do each kind of job. The AI can be local or hosted, whichever you prefer. You decide how much freedom it gets, from checking with you before every step to running a whole job on its own.
 
-```
-   You
-    |
- Workflow plugins        coding today, more to come
-    |
- Orchestrator            plans, delegates, checks
-    |
- Your AI                 local or hosted, your choice
-    |
- Windows or Linux
-```
-
 ## A model made for the job
 
 PhanOS will ship with its own fine-tuned model, trained for the everyday work that Cyphor does. Keeping track of a project, reading and organising its files and checking results are small, constant jobs. A model built for exactly those jobs handles them on your own machine and keeps your graphics card free for everything else.
